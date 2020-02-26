@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Home extends Component {
+export default class Sort extends Component {
     render() {
         return (
             <div>
-                首页
+                分类
             </div>
         )
     }

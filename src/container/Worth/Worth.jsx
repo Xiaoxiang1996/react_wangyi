@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Home extends Component {
+export default class Worth extends Component {
     render() {
         return (
             <div>
-                首页
+                值得买
             </div>
         )
     }
